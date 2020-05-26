@@ -5,7 +5,7 @@
   "author": "Ameen ALam <ameenalam202@gmail.com>",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node init && node server.js"
   },
   "dependencies": {
     "express": "^4.16.1"
